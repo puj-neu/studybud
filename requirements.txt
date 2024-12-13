@@ -1,0 +1,9 @@
+langchain>=0.3.10
+langchain-community>=0.3.10
+langchain-openai>=0.2.12
+langchain-core>=0.2.23
+chromadb>=0.5.20
+streamlit>=1.26.0
+python-magic>=0.4.15
+tiktoken
+pdf2image
