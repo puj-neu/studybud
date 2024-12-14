@@ -53,6 +53,8 @@ This Retrieval Augmented Generation (RAG) Engine combines LangChain, Streamlit, 
 
 9. Use additional features to create flashcards, lesson plans, and quizzes
 
+## Datasets 
+https://www.kaggle.com/datasets/fernandosr85/khan-academy-exercises
 ## Project Team
 
 Manish CP, Keerthi Nethiguntla, Puja Kalivarapu
