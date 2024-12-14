@@ -1,5 +1,5 @@
 # Retrieval Augmented Generation Engine with LangChain, Streamlit, and Vector DB + LLM Fine Tuning and Prompt Engineering
-
+LINK TO VIDEO - https://northeastern-my.sharepoint.com/:v:/g/personal/chikkavadaragudipr_m_northeastern_edu/EaRGplvZyelIqbLkwXxVSwIB25Gt3hx5IXnlIU4Mktvq6A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=O4FAI5
 ## Project Summary
 
 This Retrieval Augmented Generation (RAG) Engine combines LangChain, Streamlit, and Pinecone to create a robust web application for document analysis, summarization, and interactive Q&A. Users can upload PDFs, generate vector embeddings from the text, and engage in conversational interactions with the content. The system maintains chat history for a more dynamic experience.
