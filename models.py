@@ -54,3 +54,13 @@ class Flashcards:
 
     def __len__(self):
         return len(self.data)
+@dataclass
+class Quiz:
+    questions: List[dict]
+    
+@dataclass
+class LessonPlan:
+    objectives: List[str]
+    activities: List[dict]
+    resources: List[str]
+
