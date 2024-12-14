@@ -1,4 +1,4 @@
-# Retrieval Augmented Generation Engine with LangChain, Streamlit, and Vector DB + LLM Fine Tuning 
+# Retrieval Augmented Generation Engine with LangChain, Streamlit, and Vector DB + LLM Fine Tuning and Prompt Engineering
 
 ## Project Summary
 
