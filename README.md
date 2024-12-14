@@ -38,7 +38,7 @@ This Retrieval Augmented Generation (RAG) Engine combines LangChain, Streamlit, 
 
 3. Launch the application:
    ```bash
-   streamlit run src/main.py
+   streamlit run main.py
    ```
 
 4. Open the provided URL in a web browser
